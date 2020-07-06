@@ -10,7 +10,7 @@ Answers for DevOps Technical Test
 -	Yes
 
 •	 How to manage package compile?
--	Use package management tool, such as Advanced Packaging Tool (APT)
+-	Use package management tool. E.g: Azure Artifact
 
 •	Should you clean trash in your server when change role?
 -	Yes
